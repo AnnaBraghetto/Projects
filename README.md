@@ -11,3 +11,5 @@ NEURAL NETWORKS AND DEEP LEARNING: Multiclassification of images using neural ne
                                    Applications of autoencoder and variational autoencoder (Python - Pytorch);
                                    Text generator with LSTM (Python - Pytorch);
                                    Reinforcement learning using Sarsa and Q-Learning (Python).
+STATISTICAL MECHANICS OF COMPLEX SYSTEMS: Application of maximum entropy and network analysis (Python); Determining the spreading of epidemic (Python).
+STATISTICS: Studied the concetration of particulate matter in air performing a gaussian process (R).
